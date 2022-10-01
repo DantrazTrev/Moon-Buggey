@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "MoonBuggey",
+  "description": "To calculate the amount a user has earned on a Bug Bounty Platform",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "assets/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
